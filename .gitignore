@@ -1,3 +1,13 @@
 .DS_Store
 */.DS_Store
 **/.DS_Store
+
+# Python
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
